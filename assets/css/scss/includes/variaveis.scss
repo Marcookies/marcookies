@@ -6,47 +6,47 @@ $font-liberation: "Liberation";
   font-family: "Bough";
   font-style: normal;
   font-weight: 100;
-  src: local("Bough Regular"), url("/assets/fonts/Bough-Regular.otf") format("opentype");
+  src: local("Bough Regular"), url("/src/assets/fonts/Bough-Regular.otf") format("opentype");
 }
 
 @font-face {
   font-family: "Bough-Condensed";
   font-style: normal;
   font-weight: 100;
-  src: local("Bough Condensed"), url("/assets/fonts/Bough-Condensed.otf") format("opentype");
+  src: local("Bough Condensed"), url("/src/assets/fonts/Bough-Condensed.otf") format("opentype");
 }
 
 @font-face {
   font-family: "Liberation";
   font-style: italic;
   font-weight: 100;
-  src: local("Liberation Regular"), url("/assets/fonts/LiberationSerif-Italic.ttf") format("truetype");
+  src: local("Liberation Regular"), url("/src/assets/fonts/LiberationSerif-Italic.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Georgia Regular";
   font-style: normal;
   font-weight: normal;
-  src: local("Georgia Regular"), url("/assets/fonts/georgia.woff") format("woff");
+  src: local("Georgia Regular"), url("/src/assets/fonts/georgia.woff") format("woff");
 }
 
 @font-face {
   font-family: "Georgia Italic";
   font-style: normal;
   font-weight: normal;
-  src: local("Georgia Italic"), url("/assets/fonts/georgiai.woff") format("woff");
+  src: local("Georgia Italic"), url("/src/assets/fonts/georgiai.woff") format("woff");
 }
 
 @font-face {
   font-family: "Georgia Bold";
   font-style: normal;
   font-weight: normal;
-  src: local("Georgia Bold"), url("/assets/fonts/georgiab.woff") format("woff");
+  src: local("Georgia Bold"), url("/src/assets/fonts/georgiab.woff") format("woff");
 }
 
 @font-face {
   font-family: "Georgia Bold Italic";
   font-style: normal;
   font-weight: normal;
-  src: local("Georgia Bold Italic"), url("/assets/fonts/georgiaz.woff") format("woff");
+  src: local("Georgia Bold Italic"), url("/src/assets/fonts/georgiaz.woff") format("woff");
 }
