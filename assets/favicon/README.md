@@ -6,7 +6,7 @@ This package was generated with [RealFaviconGenerator](https://realfavicongenera
 
 To install this package:
 
-Extract this package in the root of your web site. If your site is <code>http://www.example.com</code>, you should be able to access a file named <code>http://www.example.com/favicon.ico</code>.
+Extract this package in <code>&lt;web site&gt;/</code>. If your site is <code>http://www.example.com</code>, you should be able to access a file named <code>http://www.example.com/favicon.ico</code>.
 
 Insert the following code in the `head` section of your pages:
 
@@ -18,6 +18,7 @@ Insert the following code in the `head` section of your pages:
     <meta name="apple-mobile-web-app-title" content="Marcookies">
     <meta name="application-name" content="Marcookies">
     <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
 *Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
